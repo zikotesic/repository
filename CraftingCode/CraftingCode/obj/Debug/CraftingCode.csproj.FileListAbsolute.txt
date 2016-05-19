@@ -1,0 +1,6 @@
+c:\users\ziko.tesic\documents\visual studio 2015\Projects\CraftingCode\CraftingCode\bin\Debug\CraftingCode.exe.config
+c:\users\ziko.tesic\documents\visual studio 2015\Projects\CraftingCode\CraftingCode\bin\Debug\CraftingCode.exe
+c:\users\ziko.tesic\documents\visual studio 2015\Projects\CraftingCode\CraftingCode\bin\Debug\CraftingCode.pdb
+c:\users\ziko.tesic\documents\visual studio 2015\Projects\CraftingCode\CraftingCode\obj\Debug\CraftingCode.csprojResolveAssemblyReference.cache
+c:\users\ziko.tesic\documents\visual studio 2015\Projects\CraftingCode\CraftingCode\obj\Debug\CraftingCode.exe
+c:\users\ziko.tesic\documents\visual studio 2015\Projects\CraftingCode\CraftingCode\obj\Debug\CraftingCode.pdb
